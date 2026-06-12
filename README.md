@@ -1,6 +1,6 @@
 # 🛒 Olist Brazilian E-Commerce — SQL Business Intelligence Analysis
 
-![Dashboard](olist_dashboard.png)
+!![Dashboard](output/olist_dashboard.png)
 
 ##  Project Overview
 End-to-end SQL analysis on 100K+ real e-commerce orders from Olist,
