@@ -1,0 +1,28 @@
+
+OLIST E-COMMERCE BUSINESS RECOMMENDATIONS
+==========================================
+
+ 1: Customer Retention Crisis
+- Only 3.48% repeat rate. 38% customers At Risk or Lost.
+- RECOMMENDATION: Launch loyalty program with 10% discount on 2nd purchase.
+  Target At Risk segment (31,703 customers) with re-engagement campaign.
+
+ 2: Sao Paulo Concentration Risk
+- SP = 41.94% of all customers. North Brazil untapped.
+- RECOMMENDATION: Partner with local sellers in AM, PA, CE states.
+
+ 3: Black Friday Opportunity
+- Nov 2017 was top month (+53.55% spike).
+- RECOMMENDATION: Start prep 6 weeks early. Pre-stock health_beauty, watches.
+
+ 4: Freight = 14.3% of Revenue
+- Customers pay avg R$20 extra in freight.
+- RECOMMENDATION: Free shipping threshold at R$150.
+
+ 5: Office Furniture Worst Reviews (3.52 stars)
+- 25.4% bad reviews, likely delivery damage.
+- RECOMMENDATION: Require specialised freight for furniture category.
+
+ 6: Credit Card Installments Drive Higher Spend
+- Credit users spend R$163 vs R$145 boleto (12% more).
+- RECOMMENDATION: Promote 0% interest installments above R$200.
